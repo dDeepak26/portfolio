@@ -2,7 +2,7 @@ export const aboutData = {
   name: "Deepak Durgam",
   bio: "I'm a passionate software engineer specialized in crafting efficient and scalable solutions, deliver top-notch web applications, and provide freelance services that exceed client expectations. Let's connect and create something amazing together!",
   resumeLink:
-    "https://drive.google.com/file/d/15BIx5EBbhwNknhAGJ4za3mdrNDvSbc2J/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Jpv_xAXlh8qmO16XmbtTYAYTCyJHjtXY/view?usp=sharing",
 };
 
 export const projectData = [
@@ -14,6 +14,7 @@ export const projectData = [
       3: "Redux",
       4: "Firebase",
     },
+    image: "Netflix.png",
     description:
       "The NetflixGPT project is a React-based app that integrates Redux, Tailwind CSS, Firebase, TMDB API, and Gemini API. It features movie rendering from TMDB, enabling users to view detailed information about each title. Firebase handles authentication with Google or email, while Gemini API powers a search function for movies. Users can switch between five languages for a customized experience. The project is hosted on Vercel, providing quick deployment and accessibility across devices.",
     firstButton: "GitHub",
@@ -30,6 +31,7 @@ export const projectData = [
       4: "shadcn UI",
       5: "PostgreSQL",
     },
+    image: "ai-expense-tracker.png",
     description:
       "The AI Expense Tracker is a Next.js and React app that uses TypeScript, Tailwind CSS, and Gemini API for intelligent financial tracking. It includes Drizzle, Neon, and PostgreSQL for secure data storage, allowing users to manage budgets, expenses, and income. Users can view financial summaries through dynamic graphs and receive AI-driven financial advice based on their data. Authentication is supported via Google or email and password. The app combines user-friendly UI with advanced analytics, offering measurable insights to improve financial decision-making.",
     firstButton: "GitHub",
@@ -41,6 +43,7 @@ export const projectData = [
       1: "React Native",
       2: "Firebase",
     },
+    image: "Ekart.png",
     description:
       "Pet Buddy is a React Native app using Firebase that helps users find pets for adoption. It includes Google authentication and stores pet data, allowing users to browse and filter pets by categories. Users can create a personalized favorite list by liking pets, connect with pet owners through in-app chat, and add new pets for adoption. Firebase handles real-time data sync and secure user interactions, making it a seamless platform for pet adoption enthusiasts.",
     firstButton: "GitHub",
