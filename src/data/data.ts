@@ -1,6 +1,6 @@
 export const aboutData = {
   name: "Deepak Durgam",
-  bio: "I'm a passionate software engineer specialized in crafting efficient and scalable solutions, deliver top-notch web applications, and provide freelance services that exceed client expectations. Let's connect and create something amazing together!",
+  bio: "Motivated fresher with a passion for web and mobile development. Eager to grow as a Full Stack Developer, adapt to challenges, and continuously improve. Skilled in problem-solving and teamwork, ready to contribute to dynamic teams and modern frameworks.",
   resumeLink:
     "https://drive.google.com/file/d/1Jpv_xAXlh8qmO16XmbtTYAYTCyJHjtXY/view?usp=sharing",
 };
