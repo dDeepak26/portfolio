@@ -14,11 +14,6 @@ const Projects = () => {
               key={index}
               className="border rounded-lg shadow-md overflow-hidden p-4 sm:p-6 transition-transform duration-300 hover:shadow-lg hover:border-blue-500 hover:scale-105"
             >
-              {/* <img
-                src={project.image}
-                alt={`${project.projectName} Image`}
-                className="w-full h-40 sm:h-48 object-cover rounded-t-md mb-4"
-              /> */}
               <h1 className="text-xl sm:text-2xl font-semibold mb-2">
                 {project.projectName}
               </h1>
