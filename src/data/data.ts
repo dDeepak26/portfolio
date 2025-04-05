@@ -2,7 +2,7 @@ export const aboutData = {
   name: "Deepak Durgam",
   bio: "Motivated fresher with a passion for web and mobile development. Eager to grow as a Full Stack Developer, adapt to challenges, and continuously improve. Skilled in problem-solving and teamwork, ready to contribute to dynamic teams and modern frameworks.",
   resumeLink:
-    "https://drive.google.com/file/d/17VSP97XdV4kT8ByVx_yjvmjHnMuwcfHG/view?usp=sharing",
+    "https://drive.google.com/file/d/18xqoCg-qdN9e8DsaSouSJW1wIV8ncI8e/view?usp=sharing",
 };
 
 export const projectData = [

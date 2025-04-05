@@ -1,5 +1,0 @@
-- navbar
-- about section
-  - change photo
-  - add resume link
-- Projects
